@@ -1,4 +1,4 @@
-package com.self.test;
+package com.self.test.SimpleProblems;
 
 public class alternatechars {
     public static void main(String[] args) {
